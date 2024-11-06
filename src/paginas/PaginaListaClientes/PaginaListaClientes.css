@@ -1,0 +1,8 @@
+.pagina-lista-clientes__item-cliente{
+    background-color: #fff;
+    color: blue;
+    padding: 8px;
+    box-shadow: 0px 4px 20px 8px black;
+    display: flex;
+    justify-content: space-between;
+}
